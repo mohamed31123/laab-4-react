@@ -5,6 +5,14 @@
 
 ### https://laab-4-react-189it58h9-moeddin.vercel.app/
 
+
+# Video demo 
+
+
+
+https://github.com/user-attachments/assets/73e0fcb0-9bcd-41be-9ac8-e27b63b3ef86
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -75,11 +83,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-# Video demo 
-
-
-
-https://github.com/user-attachments/assets/73e0fcb0-9bcd-41be-9ac8-e27b63b3ef86
 
 
 # Auteur : EDDINARI MOHAMED
